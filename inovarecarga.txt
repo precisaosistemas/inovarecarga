@@ -2,12 +2,12 @@
 
 [Update]
 Name = InovaRecarga
-ProductVersion = 1.0.275
-URL = https://github.com/precisaosistemas/inovarecarga/releases/download/v1.0.275/inovarecarga-1.0.275.exe
-Size = 52942728
-MD5 = 81b8711de0395b790736ac05c9bf7d5d
+ProductVersion = 1.0.278
+URL = https://github.com/precisaosistemas/inovarecarga/releases/download/v1.0.278/inovarecarga-1.0.278.exe
+Size = 52946960
+MD5 = 827d0a0e796f71241d4e1ed284e69cb5
 CommandLine = /exenoui /qn
-ServerFileName = inovarecarga-1.0.275.exe
+ServerFileName = inovarecarga-1.0.278.exe
 Flags = SilentInstall|NoRedetect
 RegistryKey = HKUD\Software\Precisao Sistemas\InovaRecarga\Version
-Version = 1.0.275
+Version = 1.0.278
