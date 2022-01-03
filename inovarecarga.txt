@@ -3,7 +3,7 @@
 [Update]
 Name = InovaRecarga
 ProductVersion = 1.0.297
-URL = https://github.com/precisaosistemas/inovarecarga/releases/download/1.0.296/inovarecarga-1.0.296.exe
+URL = https://github.com/precisaosistemas/inovarecarga/releases/download/1.0.296/inovarecarga-1.0.297.exe
 Size = 54650584
 MD5 = ed34a3e36407ec086bd8fa2dd4fb86d9
 CommandLine = /exenoui /qn
